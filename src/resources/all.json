@@ -21,6 +21,13 @@
     "categoryName": "Accesibilidad"
   },
   {
+    "name": "Curso gratuito de Algoritmia",
+    "description": "Aprender a resolver algoritmos es uno de los pilares necesarios para conseguir tu primer trabajo en sistemas. En este curso se muestran los conceptos básicos para hacerlo",
+    "url": "https://courseit.io/cursos/algoritmos",
+    "date": "27/04/2021",
+    "categoryName": "Algoritmos"
+  },
+  {
     "name": "Keyframes",
     "description": "Crea y edita animaciones viendo resultado en vivo",
     "url": "https://keyframes.app/animate/",
@@ -308,6 +315,13 @@
     "categoryName": "Guías"
   },
   {
+    "name": "Curso de Introducción al desarrollo web",
+    "description": "Curso gratuito inicial de HTML y CSS",
+    "url": "https://courseit.io/cursos/curso-gratuito-html-css",
+    "date": "27/04/2021",
+    "categoryName": "HTML y CSS"
+  },
+  {
     "name": "Basicons",
     "description": "Iconos en formato SVG",
     "url": "https://basicons.xyz/",
@@ -420,6 +434,13 @@
     "categoryName": "Imagenes"
   },
   {
+    "name": "error404fun",
+    "description": "Ilustraciones para paginas 404",
+    "url": "https://error404.fun/",
+    "date": "04/04/2021",
+    "categoryName": "Imagenes"
+  },
+  {
     "name": "1loc",
     "description": "Utilidades de JavaScript en 1 linea de codigo",
     "url": "https://1loc.dev/",
@@ -511,6 +532,13 @@
     "categoryName": "Regex"
   },
   {
+    "name": "Creación de dApps con Solidity",
+    "description": "Curso gratuito de creación de aplicaciones descentralizadas (dApps) utilizando solidity",
+    "url": "https://courseit.io/cursos/curso-gratuito-dapps-solidity",
+    "date": "27/04/2021",
+    "categoryName": "Smart Contracts"
+  },
+  {
     "name": "Warp SVG",
     "description": "Deforma y modifica SVG",
     "url": "https://pavellaptev.github.io/warp-svg/",
@@ -544,6 +572,27 @@
     "url": "https://www.svgbackgrounds.com/",
     "date": "12/12/2020",
     "categoryName": "SVG"
+  },
+  {
+    "name": "Productshot",
+    "description": "Screenshot para llamar la atencion",
+    "url": "https://productshot.app/",
+    "date": "19/04/2021",
+    "categoryName": "Tools"
+  },
+  {
+    "name": "Photo Censor",
+    "description": "Pixela,desenfoca...fotos de forma simple",
+    "url": "https://10015.io/tools/photo-censor",
+    "date": "19/04/2021",
+    "categoryName": "Tools"
+  },
+  {
+    "name": "Local pdf",
+    "description": "Combina PDFs, marca de agua, extrae fotos",
+    "url": "https://localpdf.tech/",
+    "date": "26/04/2021",
+    "categoryName": "Tools"
   },
   {
     "name": "Pablo Sirera Twitch",
