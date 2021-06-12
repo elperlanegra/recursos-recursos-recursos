@@ -119,6 +119,20 @@
     "categoryName": "Box-shadow"
   },
   {
+    "name": "SmolCSS",
+    "description": "Fragmentos/snippets mínimos para diseños y componentes CSS modernos",
+    "url": "https://smolcss.dev/",
+    "date": "19/02/2021",
+    "categoryName": "CSS"
+  },
+  {
+    "name": "Cssreference",
+    "description": "Guia visual para aprender CSS",
+    "url": "https://cssreference.io/",
+    "date": "10/05/2021",
+    "categoryName": "CSS"
+  },
+  {
     "name": "Accessible Brand Colors",
     "description": "Encuentra colores accesibles y comparalos",
     "url": "https://abc.useallfive.com/",
@@ -420,6 +434,13 @@
     "categoryName": "Ilustraciones"
   },
   {
+    "name": "Illustrations",
+    "description": "Kit de ilustraciones open source svg y png.",
+    "url": "https://illlustrations.co/",
+    "date": "29/03/2021",
+    "categoryName": "Ilustraciones"
+  },
+  {
     "name": "Unsplash",
     "description": "Imagenes de alta calidad multiples categorías",
     "url": "https://unsplash.com/",
@@ -460,13 +481,6 @@
     "url": "https://javascript.info/",
     "date": "24/12/2020",
     "categoryName": "JavaScript"
-  },
-  {
-    "name": "SmolCSS",
-    "description": "Fragmentos/snippets mínimos para diseños y componentes CSS modernos",
-    "url": "https://smolcss.dev/",
-    "date": "19/02/2021",
-    "categoryName": "CSS"
   },
   {
     "name": "CSS Grid Generator",
@@ -529,6 +543,13 @@
     "description": "Screenshot en dispositivos moviles",
     "url": "https://mockuphone.com/",
     "date": "06/05/2021",
+    "categoryName": "Mockup"
+  },
+  {
+    "name": "DIY Book Design",
+    "description": "Free online book mockup",
+    "url": "https://diybookcovers.com/3Dmockups/",
+    "date": "01/06/2021",
     "categoryName": "Mockup"
   },
   {
