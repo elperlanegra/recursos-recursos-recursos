@@ -21,6 +21,13 @@
     "categoryName": "Accesibilidad"
   },
   {
+    "name": "Accessibility Acceptance Criteria",
+    "description": "Test Tool De Accesibilidad",
+    "url": "https://www.a11yengineer.com/",
+    "date": "30/08/2021",
+    "categoryName": "Accesibilidad"
+  },
+  {
     "name": "Keyframes",
     "description": "Crea y edita animaciones viendo resultado en vivo",
     "url": "https://keyframes.app/animate/",
@@ -179,6 +186,13 @@
     "description": "Generador de paletas de colores",
     "url": "https://paletton.com/",
     "date": "07/10/2021",
+    "categoryName": "Colores"
+  },
+  {
+    "name": "Huemint",
+    "description": "Generador de colores para marca, web...",
+    "url": "https://huemint.com/brand-intersection/",
+    "date": "06/09/2021",
     "categoryName": "Colores"
   },
   {
@@ -683,6 +697,13 @@
     "description": "Modifica y crea fondos rápidos con svg",
     "url": "https://www.svgbackgrounds.com/",
     "date": "12/12/2020",
+    "categoryName": "SVG"
+  },
+  {
+    "name": "Haikei",
+    "description": "Crea svg de diferentes formas para tus proyectos",
+    "url": "https://app.haikei.app/",
+    "date": "06/09/2021",
     "categoryName": "SVG"
   },
   {
